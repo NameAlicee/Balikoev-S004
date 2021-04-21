@@ -1,0 +1,8 @@
+﻿  CopyStroke.cpp
+C:\Users\gabon\source\repos\CopyStroke\CopyStroke\CopyStroke.cpp(23): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\gabon\source\repos\CopyStroke\CopyStroke\CopyStroke.cpp(74): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\gabon\source\repos\CopyStroke\CopyStroke\CopyStroke.cpp(113): warning C4405: str: идентификатор является зарезервированным словом
+C:\Users\gabon\source\repos\CopyStroke\CopyStroke\CopyStroke.cpp(86,13): warning C4102: StartCopy: неиспользованная метка
+C:\Users\gabon\source\repos\CopyStroke\CopyStroke\CopyStroke.cpp(96,1): warning C4102: IndexBiggerLength: неиспользованная метка
+C:\Users\gabon\source\repos\CopyStroke\CopyStroke\CopyStroke.cpp(102,1): warning C4102: CheckLengthCopy: неиспользованная метка
+  CopyStroke.vcxproj -> C:\Users\gabon\source\repos\CopyStroke\Debug\CopyStroke.exe
